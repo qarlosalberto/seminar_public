@@ -2,3 +2,7 @@ vunit_out
 transcript
 *.ghw
 *.log
+vivado_libs
+*.version
+*.ini
+*.csv
